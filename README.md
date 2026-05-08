@@ -37,7 +37,7 @@
         venv\Scripts\activate
 - ### Install are requirements: 
     ```bash 
-    pip install requirements.txt
+    pip install -r requirements.txt
 - ### Run the project: 
     ```bash 
     cd src
