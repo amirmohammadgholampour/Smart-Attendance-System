@@ -1,0 +1,3 @@
+venv
+config/settings/local.py
+.env.local
