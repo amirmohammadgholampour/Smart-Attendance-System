@@ -1,3 +1,6 @@
 venv
 config/settings/local.py
+*__pycache__
+*__init__.py
+run-dev.sh
 .env.local
